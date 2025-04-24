@@ -1,3 +1,4 @@
+package src.gqs.com.aula;
 import java.util.Scanner;
 
 public class App {

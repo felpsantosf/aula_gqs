@@ -1,3 +1,5 @@
+package src.gqs.com.aula;
+
 public class Cliente {
     private int id;
     private String nome;

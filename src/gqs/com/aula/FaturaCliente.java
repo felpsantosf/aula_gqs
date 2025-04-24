@@ -1,3 +1,5 @@
+package src.gqs.com.aula;
+
 public class FaturaCliente {
     private int id;
     private Cliente cliente;

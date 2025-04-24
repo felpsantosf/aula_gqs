@@ -1,3 +1,5 @@
+package src.gqs.com.aula;
+
 public class ContaCliente {
     private int id;
     private Cliente cliente;
